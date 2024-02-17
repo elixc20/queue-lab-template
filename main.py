@@ -13,3 +13,4 @@ class Queue():
 if __name__ == '__main__':
     queue1 = Queue.cards
     print(queue1)
+    #push tests LR
